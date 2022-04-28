@@ -121,7 +121,7 @@
             <br />
             <button type="submit" name="login" class="btn btn-primary ">Register</button>
             <div class="bottom">
-               <p> sudah memiliki akun? <a href="{{ url('/login') }}"><b>login</b></a>
+               <p> sudah memiliki akun? <a href="{{ url('/login') }}"><b>Silahkan login</b></a>
                <br>Kembali Ke  <a href="{{ route('index') }}"><b>Beranda</b></a></p>
                             </div>
             </div>
